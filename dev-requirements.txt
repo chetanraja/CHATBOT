@@ -1,4 +1,4 @@
-chatterbot>=1.0,<1.1
+chatterbot==0.8.6
 nose
 pip
 twine
