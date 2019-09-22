@@ -15,7 +15,7 @@ DESCRIPTION = CORPUS.__doc__
 
 setup(
     name='chatterbot-corpus',
-    version=1.1.4,
+    version==1.1.4,
     url=URL,
     download_url='{}/tarball/{}'.format(URL, VERSION),
     setup_requires=['setuptools-markdown'],
