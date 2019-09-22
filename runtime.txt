@@ -1,3 +1,1 @@
 python-3.7.3
-pip install ChatterBot==0.8.6
-pip install chatterbot-corpus==1.1.4
